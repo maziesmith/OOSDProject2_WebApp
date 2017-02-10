@@ -1,0 +1,25 @@
+﻿body {
+
+}
+.rptr-package {
+    border: 2px solid black;
+    float: left;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+}
+.package-date {
+    width:60%;
+    float:left;
+}
+.package-price {
+    width:40%;
+    float:left;
+    text-align:right;
+}
+.customer-data {
+    clear:both;
+    width:50%;
+    padding:10px;
+    border:2px solid black;
+}
